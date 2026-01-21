@@ -18,6 +18,4 @@ Apesar de constituir etapa prévia à análise dos dados em si, é de fundamenta
 
 Durante o processo realizamos operações como a retirada de valores nulos, formatações, tabulações dos dados e remoção de duplicatas.
 
-Base de dados: É constituída de um arquivo .xlsx, contendo as seguintes colunas:
-
 Ao final do processo de limpeza podem ser tomadas novas medidas como a análise exploratória destes dados, seja com o próprio SQL ou software de visualização como Tableau e Power BI para a criação de dashboards interativos.
